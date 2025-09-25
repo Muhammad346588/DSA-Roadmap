@@ -1,0 +1,140 @@
+📅 12-Week JavaScript DSA Plan
+🔹 Week 1–2: Foundations
+
+Learn Big-O Notation (time & space complexity).
+
+Revise JavaScript basics for DSA: arrays, objects, loops, functions, ES6 features (map, filter, reduce).
+
+Practice array basics:
+
+Reverse an array
+
+Find min/max
+
+Linear search, Binary search
+
+Daily target: 2–3 easy problems.
+
+🔹 Week 3–4: Arrays & Strings
+
+Learn two pointers technique.
+
+Learn sliding window basics.
+
+Common problems:
+
+Move zeros
+
+Rotate array
+
+Longest substring without repeating characters
+
+Anagrams, Palindromes
+
+Practice string methods in JS (split, join, substring, slice).
+
+🔹 Week 5–6: Hashing & Recursion
+
+Learn HashMaps / Sets in JS.
+
+Problems:
+
+Two Sum
+
+Subarray sum = K
+
+Majority element
+
+Learn recursion:
+
+Factorial, Fibonacci
+
+Tower of Hanoi
+
+Basic backtracking (subset generation, permutations).
+
+🔹 Week 7–8: Linked List & Stack/Queue
+
+Implement singly & doubly linked list in JS (classes).
+
+Problems:
+
+Reverse a linked list
+
+Detect cycle
+
+Merge two sorted lists
+
+Learn Stacks & Queues:
+
+Next greater element
+
+Valid parentheses
+
+Implement queue using stacks
+
+🔹 Week 9–10: Trees & Graphs
+
+Learn Binary Tree basics: preorder, inorder, postorder.
+
+Learn Binary Search Tree (BST) operations.
+
+Problems:
+
+Height of tree
+
+Level order traversal
+
+Lowest common ancestor
+
+Intro to Graphs:
+
+BFS, DFS
+
+Connected components
+
+Shortest path (BFS for unweighted)
+
+🔹 Week 11: Advanced Topics
+
+Dynamic Programming basics:
+
+Fibonacci DP
+
+Climbing stairs
+
+Knapsack (basic)
+
+Greedy algorithms:
+
+Activity selection
+
+Minimum coins problem
+
+🔹 Week 12: Mock & Mixed Practice
+
+Mix easy + medium problems daily (LeetCode / HackerRank).
+
+Focus on weak areas (if strings confuse you, spend more time there).
+
+Solve 2 easy + 1 medium daily.
+
+Try at least 2 contests (LeetCode Weekly / Codeforces Div 3).
+
+🛠️ Resources
+
+Theory: GeeksforGeeks, NeetCode (YouTube), Love Babbar DSA playlist.
+
+Practice: LeetCode (main), Codeforces (for contests), HackerRank (for basics).
+
+JS specific: MDN Docs, JavaScript.info
+
+📌 Tips
+
+Don’t just read solutions → code them in JS yourself.
+
+Always analyze time & space complexity.
+
+Maintain a DSA notes repo in GitHub or Notion.
+
+Debug deeply — console.log is your best friend in JS.
